@@ -1,4 +1,6 @@
 # ProjectT 2015 v2 - Домашнее задание #3
+[![Build Status](https://travis-ci.org/NatalyBakhareva/lesson_3_homework.svg)](https://travis-ci.org/NatalyBakhareva/lesson_3_homework)
+
 ## Задание
 - В файле `calculator.py` описан скелет класса `Calculator`. Необходимо восполнить недостающую реализацию и обеспечить качество unit-тестами
 - Реализовать интерактивную консольную программу в файле `main.py` для работы с классом `Calculator`
